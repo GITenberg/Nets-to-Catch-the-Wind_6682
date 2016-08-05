@@ -1,0 +1,38 @@
+_repo: Nets-to-Catch-the-Wind_6682
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Wylie, Elinor
+    aliases:
+    - Benét, Elinor Hoyt
+    - Wylie, Elinor Hoyt
+    - Benet, Elinor Hoyt
+    - Hoyt, Elinor
+    birthdate: 1885
+    deathdate: 1928
+    gutenberg_agent_id: '2151'
+    url: http://www.gutenberg.org/2009/agents/2151
+    wikipedia: http://en.wikipedia.org/wiki/Elinor_Wylie
+description: ''
+gutenberg_issued: '2004-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6682'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Poetry'
+- !lcc 'PS'
+- GITenberg
+tableOfContents: Beauty -- The Eagle and the Mole -- Madman's Song -- The Prinkin'
+  Leddie -- August -- The Crooked Stick -- Atavism -- Wild Peaches -- Sanctuary --
+  The Lion and the Lamb -- The Church-Bell -- A Crowded Trolley Car -- Bells in the
+  Rain -- Winter Sleep -- Village Mystery -- Sunset on the Spire -- Escape -- The
+  Fairy Goldsmith -- "Fire and Sleet and Candlelight" -- Blood Feud -- Sea Lullaby
+  -- Nancy -- A Proud Lady -- The Tortoise in Eternity -- Incantation -- Silver Filigree
+  -- The Falcon -- Bronze Trumpets and Sea Water--On Turning Latin into English --
+  Spring Pastoral -- Velvet Shoes -- Valentine.
+title: Nets to Catch the Wind
+url: http://www.gutenberg.org/ebooks/6682
